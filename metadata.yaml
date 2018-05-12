@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31487
     wikipedia: http://en.wikipedia.org/wiki/Henry_Ward_Beecher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30392#Twelve-Causes-of-Dishonesty
 gutenberg_issued: '2009-11-02'
 gutenberg_type: Text
 identifiers:
